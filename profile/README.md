@@ -1,30 +1,8 @@
-<div>
-  <h1>Hey, Welcome to Jynio</h1>
-  <img width="1081" height="240" alt="image" src="https://github.com/user-attachments/assets/ea299749-d9fb-4046-8a19-6bc8eeefd46f" />
-</div>
+<img width="100%" src="https://github.com/Jyni0/.github/blob/main/banner.png?raw=true" />
 
-<br /><br /><br />
-
-<div align="center">
-  <strong>Our organization stack:</strong>
-</div>
-<br />
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=ts" height="60" alt="typescript logo" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=cs" height="60" alt="cs logo" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=docker" height="60" alt="docker logo" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=jenkins" height="60" alt="jenkins logo" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=postgres" height="60" alt="postgres logo" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=debian" height="60" alt="debian logo" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=webpack" height="60" alt="webpack logo" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=vite" height="60" alt="vite logo" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=tailwind" height="60" alt="tailwind logo" />
-</div>
+<h3 align="center" style="font-size: 32px">Team Stack</h3>
+<p align="center">
+  <a href="https://pfl.jynio.eu">
+    <img src="https://skillicons.dev/icons?i=ts,cs,docker,git,react,tailwind,postgres,debian&perline=4" />
+  </a>
+</p>
